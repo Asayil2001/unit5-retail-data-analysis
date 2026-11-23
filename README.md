@@ -26,6 +26,15 @@ This activity analyses the Online Retail dataset using Python, Pandas, and Matpl
 | Countries represented | 38 |
 
 The United Kingdom accounted for the largest share of sales in the dataset.
+
+## Visualisations
+
+### Top 10 Countries by Sales
+![Top 10 Countries by Sales](top10_countries.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales.png)
+
 ## Dataset
 [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
